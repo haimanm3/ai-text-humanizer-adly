@@ -1,6 +1,6 @@
 # AI Text Humanizer – Adly AI Engineer Screening
 
-[Live Demo 🚀](https://ai-humanizer-adly.netlify.app/)  
+[Click Here for Live Demo 🚀](https://ai-humanizer-adly.netlify.app/)  
 
 ## Overview
 
