@@ -21,7 +21,7 @@ The app leverages large language model APIs to rewrite text with improved tone, 
 
 - **Frontend:** React, JavaScript, HTML, CSS
 - **Backend:** Supabase (PostgreSQL + Auth + Storage)
-- **API Integration:** Undetectable AI’s humanizer API
+- **API Integration:** OpenAI API
 - **Deployment:** Netlify
 
 ## How It Works
