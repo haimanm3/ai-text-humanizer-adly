@@ -6,7 +6,7 @@
 
 This project was built as part of the Adly AI Engineer interview process. The goal was to create a simple, intuitive interface that transforms generic or robotic AI-generated text into content that feels more natural, expressive, and human-like.
 
-The app leverages large language model APIs to rewrite text with improved tone, relatability, and clarity—making it a valuable tool for content creators, marketers, and teams aiming to polish AI outputs for real audiences.
+The app leverages large language model APIs to rewrite text with improved tone, relatability, and clarity, making it a valuable tool for content creators, marketers, and teams aiming to polish AI outputs for real audiences.
 
 ## Features
 
